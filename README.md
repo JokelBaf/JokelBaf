@@ -3,9 +3,9 @@
 - 👤 Pronouns: He/Him
 - 🔭 I’m currently working on my own Discord bot named Ari!
 - 🌱 I’m just learning programming and it's one of my first projects
-- 🎮 I play Genshin Impact, Minecraft, GTA V, Osu!
+- 🎮 Play Genshin Impact, Minecraft, GTA V, Osu!
 - 📺🎶 Enjoy watching anime and listening to music
-- My discord is RealSosiso4ka#7986
+- My Discord is RealSosiso4ka#7986
 
 ### GitHub Profile Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=realsosiso4ka&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
