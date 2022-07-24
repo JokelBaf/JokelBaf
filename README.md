@@ -18,3 +18,10 @@
 ![RealSosiso4kas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realsosiso4ka&theme=monokai)
 ![RealSosiso4kas Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realsosiso4ka&theme=monokai)
 ![RealSosiso4ka Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realsosiso4ka&theme=monokai)
+
+<details open>
+<summary>Visitor counter</summary>
+
+![sadru](https://count.getloli.com/get/@realsosiso4ka?theme=rule34)
+
+</details>
