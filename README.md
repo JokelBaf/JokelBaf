@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm RealSosiso4ka!
+---
+- 👤 Pronouns: He/Him
+- 🔭 I’m currently working on my own Discord bot named Ari!
+- 🌱 I’m just learning programming and it's one of my first projects
+- 🎮 I play Genshin Impact, Minecraft, GTA V, Osu!
+- 📺🎶 Enjoy watching anime and listening to music
+- My discord is RealSosiso4ka#7986
 
-<!--
-**RealSosiso4ka/RealSosiso4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Profile Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=realsosiso4ka&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+### GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![RealSosiso4ka's GitHub stats](https://github-readme-stats.vercel.app/api?username=realsosiso4ka&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![RealSosiso4kas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realsosiso4ka&theme=monokai)
+![RealSosiso4kas Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realsosiso4ka&theme=monokai)
+![RealSosiso4ka Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realsosiso4ka&theme=monokai)
