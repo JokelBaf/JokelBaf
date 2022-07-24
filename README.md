@@ -7,6 +7,7 @@
 - 📺🎶 Enjoy watching anime and listening to music
 - My Discord is RealSosiso4ka#7986
 
+&nbsp;
 ### GitHub Profile Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=realsosiso4ka&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
