@@ -22,6 +22,6 @@
 <details open>
 <summary>Visitor counter</summary>
 
-![sadru](https://count.getloli.com/get/@realsosiso4ka?theme=rule34)
+![RealSosiso4ka](https://count.getloli.com/get/@realsosiso4ka?theme=rule34)
 
 </details>
