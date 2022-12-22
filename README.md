@@ -13,7 +13,7 @@
 
 ### GitHub Stats:
 
-[![JokelBaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokelbaf&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![JokelBaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokelBaf&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![JokelBaf Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jokelbaf&theme=monokai)
 ![JokelBaf Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jokelbaf&theme=monokai)
