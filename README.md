@@ -5,7 +5,7 @@
 - 🌱 I’m just learning programming and it's one of my first projects
 - 🎮 Play Genshin Impact, Minecraft, GTA V, Osu!
 - 📺🎶 Enjoy watching anime and listening to music
-- My Discord is JokelBaf#0101
+- My Discord is JokelBaf#5002
 
 &nbsp;
 ### GitHub Profile Trophy:
