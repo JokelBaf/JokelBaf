@@ -3,7 +3,7 @@
 - 👤 Pronouns: He/Him
 - 🔭 I’m currently working on my own Discord bot named Ari!
 - 🌱 I’m just learning programming and it's one of my first projects
-- 🎮 Play Genshin Impact, Minecraft, GTA V, Osu!
+- 🎮 Play Genshin/HSR, Minecraft, GTA V, Osu!
 - 📺🎶 Enjoy watching anime and listening to music
 - My Discord is JokelBaf#5002
 
