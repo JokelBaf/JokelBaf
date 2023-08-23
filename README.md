@@ -9,15 +9,15 @@
 
 &nbsp;
 ### GitHub Profile Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=jokelbaf&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JokelBaf&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Stats:
 
 [![JokelBaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokelBaf&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![JokelBaf Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jokelbaf&theme=monokai)
-![JokelBaf Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jokelbaf&theme=monokai)
-![JokelBaf Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jokelbaf&theme=monokai)
+![JokelBaf Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JokelBaf&theme=monokai)
+![JokelBaf Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JokelBaf&theme=monokai)
+![JokelBaf Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JokelBaf&theme=monokai)
 
 <details open>
 <summary>Visitor counter</summary>
